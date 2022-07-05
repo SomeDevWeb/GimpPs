@@ -62,7 +62,7 @@
 (gtk_accel_path "<Actions>/view/view-zoom-fit-in" "<Primary>0")
 (gtk_accel_path "<Actions>/dialogs/dialogs-gradients" "<Primary><Shift>g")
 (gtk_accel_path "<Actions>/image/image-duplicate" "")
-(gtk_accel_path "<Actions>/edit/edit-clear" "")
+(gtk_accel_path "<Actions>/edit/edit-clear" "Delete")
 (gtk_accel_path "<Actions>/edit/edit-fill-fg" "<Alt>BackSpace")
 (gtk_accel_path "<Actions>/tools/tools-crop" "c")
 (gtk_accel_path "<Actions>/edit/edit-redo" "<Primary><Shift>z")
